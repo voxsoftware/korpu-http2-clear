@@ -1,0 +1,13 @@
+{
+	"org":{
+		"voxsoftware":{
+			"Korpu":{
+				"Extensions":{
+					"Http2Clear":{
+						"readPath": "./src"
+					}
+				}
+			}
+		}
+	}
+}

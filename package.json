@@ -1,0 +1,24 @@
+{
+  "name": "korpu-http2-clear",
+  "version": "0.0.1",
+  "description": "Extensión para korpu que permite quitar los headers del módulo HTTP2 de apache",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voxsoftware/korpu-http2-clear.git"
+  },
+  "keywords": [
+    "proxy",
+    "apache",
+    "http2"
+  ],
+  "author": "James Suárez <xtreme.maicolxt94@gmail.com>",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/voxsoftware/korpu-http2-clear/issues"
+  },
+  "homepage": "https://github.com/voxsoftware/korpu-http2-clear#readme"
+}
