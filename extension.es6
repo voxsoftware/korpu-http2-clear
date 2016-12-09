@@ -1,4 +1,4 @@
-require("./")
+require(__dirname + "/main")
 var v= core.org.voxsoftware.Korpu.Extensions.Http2Clear
 var Handler
 
